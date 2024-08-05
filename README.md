@@ -6,4 +6,4 @@ Bem-vindo ao **N&Sigma;M&Delta;T** da **UFDPar**. Nosso núcleo é dedicado a pr
 
 ### Contato
 - **Email:** [nemat.ufdpar@gmail.com](mailto:nemat.ufdpar@gmail.com)
-- **Site:** [www.github.io](http://www.github.io)
+- **Site:** [nemat-ufdpar.github.io/site](http://nemat-ufdpar.github.io/site)
